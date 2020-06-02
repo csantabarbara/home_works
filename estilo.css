@@ -56,3 +56,15 @@ body{
     background-color: rgba(214, 165, 49, 0.712); color: white;
     
 }
+.info{
+    text-align: end;
+}
+.info input{
+    margin-right: 6% ;
+    padding: 10px 15px 10px 15px;
+    border-radius: 5%;
+    border: none;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.486);
+    font-size: 150%;
+    background-color: rgba(255, 6, 89, 0.856); color: white;
+}
