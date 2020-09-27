@@ -63,4 +63,6 @@ body{
     margin: 5% 5% 10% 5%;
     font-size: 175%;
 }
-
+.text li{
+    list-style: none;display: inline;
+}
